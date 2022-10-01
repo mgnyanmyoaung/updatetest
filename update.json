@@ -2,18 +2,18 @@
 
   "Visibility": "VISIABLE",
 
-  "Title": "Test",
+  "Title": "Update",
 
-  "Description": "Test Message",
+  "Description": "Are You Sure Do You Update",
 
   "MainTextButton": "Update",
 
-  "Cancelable": false,
+  "Cancelable": true,
 
   "CancelButtonText": "Cancel",
 
   "DownloadLink": "https://google.com",
 
-  "Version": 1.1
+  "Version": 1.2
 
 }
